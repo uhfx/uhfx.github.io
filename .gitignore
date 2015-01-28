@@ -1,10 +1,16 @@
 _site/*
+<<<<<<< HEAD
 _theme_packages/*
+=======
+>>>>>>> FETCH_HEAD
 
 Thumbs.db
 .DS_Store
 
 !.gitkeep
+<<<<<<< HEAD
 
 .rbenv-version
 .rvmrc
+=======
+>>>>>>> FETCH_HEAD
